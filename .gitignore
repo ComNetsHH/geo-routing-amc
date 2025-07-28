@@ -1,0 +1,12 @@
+# Ignore results folder (all CSVs & figures)
+results/
+
+# (Optional) Common Python artifacts
+code/__pycache__/*
+*.py[cod]
+*.so
+*.egg-info/
+
+# (Optional) Virtual‐envs
+env/
+venv/
