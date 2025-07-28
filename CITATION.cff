@@ -3,8 +3,8 @@ message: "If you use this software, please cite it as below."
 title: "GeoRoutingAMC: A Second-Order Absorbing Markov Chain for Geographic Routing in Aeronautical Communication Networks"
 version: 1.0.1
 authors:
-  - family-names: Musab
-    given-names: Ahmed
+  - family-names: Ahmed
+    given-names: Musab
     orcid: https://orcid.org/0000-0001-5554-3414
 doi: 10.5281/zenodo.16533710
 date-released: 2025-07-28
