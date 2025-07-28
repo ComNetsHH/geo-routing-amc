@@ -1,7 +1,7 @@
 # GeoRoutingAMC  
 **A Second‑Order Absorbing Markov Chain for Geographic Routing in Aeronautical Communication Networks**
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.xxx.svg)](https://doi.org/10.5281/zenodo.xxx)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16533710.svg)](https://doi.org/10.5281/zenodo.16533710)
 
 ---
 
