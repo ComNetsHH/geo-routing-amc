@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 title: "GeoRoutingAMC: A Second-Order Absorbing Markov Chain for Geographic Routing in Aeronautical Communication Networks"
-version: 1.0.1
+version: 1.0.2
 authors:
   - family-names: Ahmed
     given-names: Musab
